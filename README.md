@@ -21,6 +21,7 @@
 | [0414-third-maximum-number](https://github.com/foreveraditya/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/foreveraditya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/foreveraditya/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/foreveraditya/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/foreveraditya/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/foreveraditya/Leetcode/tree/master/0739-daily-temperatures) |
@@ -165,6 +166,7 @@
 | [0347-top-k-frequent-elements](https://github.com/foreveraditya/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/foreveraditya/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/foreveraditya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/foreveraditya/Leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/foreveraditya/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/foreveraditya/Leetcode/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/foreveraditya/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -191,6 +193,7 @@
 | [0402-remove-k-digits](https://github.com/foreveraditya/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/foreveraditya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/foreveraditya/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/foreveraditya/Leetcode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/foreveraditya/Leetcode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/foreveraditya/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/foreveraditya/Leetcode/tree/master/0767-reorganize-string) |
@@ -234,6 +237,7 @@
 | [0435-non-overlapping-intervals](https://github.com/foreveraditya/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/foreveraditya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/foreveraditya/Leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/foreveraditya/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/foreveraditya/Leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/foreveraditya/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -284,6 +288,7 @@
 | [0347-top-k-frequent-elements](https://github.com/foreveraditya/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/foreveraditya/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/foreveraditya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/foreveraditya/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/foreveraditya/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/foreveraditya/Leetcode/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/foreveraditya/Leetcode/tree/master/1046-last-stone-weight) |
@@ -310,6 +315,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/foreveraditya/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/foreveraditya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/foreveraditya/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/foreveraditya/Leetcode/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/foreveraditya/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1833-maximum-ice-cream-bars](https://github.com/foreveraditya/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
