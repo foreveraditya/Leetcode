@@ -9,6 +9,7 @@
 | [0045-jump-game-ii](https://github.com/foreveraditya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/foreveraditya/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/foreveraditya/Leetcode/tree/master/0057-insert-interval) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/foreveraditya/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/foreveraditya/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -279,6 +280,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/foreveraditya/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0633-sum-of-square-numbers](https://github.com/foreveraditya/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/foreveraditya/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
