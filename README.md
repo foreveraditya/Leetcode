@@ -353,6 +353,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/foreveraditya/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/foreveraditya/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/foreveraditya/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -370,6 +371,7 @@
 | [0437-path-sum-iii](https://github.com/foreveraditya/Leetcode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/foreveraditya/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/foreveraditya/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/foreveraditya/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -406,6 +408,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/foreveraditya/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/foreveraditya/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/foreveraditya/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/foreveraditya/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Lifting
 |  |
 | ------- |
